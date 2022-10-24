@@ -1,0 +1,5 @@
+In order to run this, you're required to have a compatible GTA SA executable (1.0 EU/US). Basically anything that's compatible with SA:MP. 
+
+Place the files into your GTA San Andreas installation directory (with SA:MP). 
+
+Double click the binary to run. 
